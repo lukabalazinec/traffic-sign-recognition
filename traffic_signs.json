@@ -1,0 +1,170 @@
+[
+  {
+    "id": 0,
+    "znak": "Ograničenje brzine 20"
+  },
+  {
+    "id": 1,
+    "znak": "Ograničenje brzine 30"
+  },
+  {
+    "id": 2,
+    "znak": "Ograničenje brzine 50"
+  },
+  {
+    "id": 3,
+    "znak": "Ograničenje brzine 60"
+  },
+  {
+    "id": 4,
+    "znak": "Ograničenje brzine 70"
+  },
+  {
+    "id": 5,
+    "znak": "Ograničenje brzine 80"
+  },
+  {
+    "id": 6,
+    "znak": "Minimalna brzina 80"
+  },
+  {
+    "id": 7,
+    "znak": "Ograničenje brzine 100"
+  },
+  {
+    "id": 8,
+    "znak": "Ograničenje brzine 120"
+  },
+  {
+    "id": 9,
+    "znak": "Zabranjeno pretjecanje (sva vozila)"
+  },
+  {
+    "id": 10,
+    "znak": "Zabranjeno pretjecanje (kamioni)"
+  },
+  {
+    "id": 11,
+    "znak": "Križanje s jednakopravnom cestom / prvenstvo desne ruke"
+  },
+  {
+    "id": 12,
+    "znak": "Cesta s prednošću prolaza"
+  },
+  {
+    "id": 13,
+    "znak": "Daj prednost (YIELD)"
+  },
+  {
+    "id": 14,
+    "znak": "STOP"
+  },
+  {
+    "id": 15,
+    "znak": "Zabrana prometa za sva vozila"
+  },
+  {
+    "id": 16,
+    "znak": "Zabrana prometa za kamione"
+  },
+  {
+    "id": 17,
+    "znak": "Ni ulaz (no entry)"
+  },
+  {
+    "id": 18,
+    "znak": "Opća opasnost (!)"
+  },
+  {
+    "id": 19,
+    "znak": "Opasni zavoj lijevo"
+  },
+  {
+    "id": 20,
+    "znak": "Opasni zavoj desno"
+  },
+  {
+    "id": 21,
+    "znak": "Zavoji (klizava / vijugava cesta)"
+  },
+  {
+    "id": 22,
+    "znak": "Neravan put"
+  },
+  {
+    "id": 23,
+    "znak": "Klizava cesta"
+  },
+  {
+    "id": 24,
+    "znak": "Suženje kolnika"
+  },
+  {
+    "id": 25,
+    "znak": "Radovi na cesti"
+  },
+  {
+    "id": 26,
+    "znak": "Prometni znakovi / semafori ispred"
+  },
+  {
+    "id": 27,
+    "znak": "Pješački prijelaz"
+  },
+  {
+    "id": 28,
+    "znak": "Djeca na cesti"
+  },
+  {
+    "id": 29,
+    "znak": "Bicikli na cesti"
+  },
+  {
+    "id": 30,
+    "znak": "Opasnost od poledice / snijega"
+  },
+  {
+    "id": 31,
+    "znak": "Divljač na cesti"
+  },
+  {
+    "id": 32,
+    "znak": "Kraj svih zabrana"
+  },
+  {
+    "id": 33,
+    "znak": "Skretanje desno obavezno"
+  },
+  {
+    "id": 34,
+    "znak": "Skretanje lijevo obavezno"
+  },
+  {
+    "id": 35,
+    "znak": "Vožnja ravno obavezna"
+  },
+  {
+    "id": 36,
+    "znak": "Skretanje lijevo ili desno obavezno"
+  },
+  {
+    "id": 37,
+    "znak": "Vožnja ravno ili desno obavezna"
+  },
+  {
+    "id": 38,
+    "znak": "Vožnja ravno ili lijevo obavezna"
+  },
+  {
+    "id": 39,
+    "znak": "Obvezno proći s desne strane"
+  },
+  {
+    "id": 40,
+    "znak": "Obvezno proći s lijeve strane"
+  },
+  {
+    "id": 41,
+    "znak": "Kružni tok"
+  }
+]
